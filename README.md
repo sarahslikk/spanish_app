@@ -1,0 +1,1 @@
+This program is a very simple Spanish to English sentence translator or English to Spanish using Python and a dataset from tatoeba.org. I made it to help me study Spanish. It took me like ten minutes to make, I will probably expand to include more features like making a GUI (website or app, idk) and also including a Spanish-English dictionary. 
